@@ -20,5 +20,5 @@ If an itemset is infrequent, then all of its supersets must also be infrequent
 
 ### The minimum support provided is - 60%
 
-### Final Frequent Set is of the above dataset is
+### Final Frequent Set of the above dataset is
 ### [('A', 'B', 'D', 'F'), ('A', 'B', 'E', 'F'), ('B', 'D', 'E', 'F'), ('C', 'D', 'E', 'F')]
